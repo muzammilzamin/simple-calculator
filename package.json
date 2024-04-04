@@ -1,0 +1,22 @@
+{
+  "name": "zamin_simple_calculator",
+  "version": "1.0.0",
+  "description": "A simple calculator with typescript nodejs and inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "zamin_simple_calculator": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"muzammil\"",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17",
+    "save-dev": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
